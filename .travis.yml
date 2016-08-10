@@ -1,3 +1,7 @@
 language: ruby
 
 sudo: false
+
+install: true
+
+script: true
