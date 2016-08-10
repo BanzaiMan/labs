@@ -1,3 +1,7 @@
 language: php
 
 sudo: false
+
+install: true
+
+script: true
