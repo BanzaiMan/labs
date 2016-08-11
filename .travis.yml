@@ -1,6 +1,8 @@
-language: ruby
+language: go
 
-sudo: false
+sudo: required
+
+dist: precise
 
 install: true
 
