@@ -1,8 +1,4 @@
-language: ruby
-
-sudo: required
-
-dist: precise
+language: objective-c
 
 install: true
 
