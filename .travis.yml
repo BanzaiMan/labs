@@ -2,8 +2,12 @@ language: java
 
 sudo: required
 
-dist: precise
+dist: trusty
 
 install: true
 
 script: true
+
+notifications:
+  email: false
+
